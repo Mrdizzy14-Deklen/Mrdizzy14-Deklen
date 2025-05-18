@@ -8,3 +8,5 @@ I have many projects i'm currently working on! I have a few games on my [itch pr
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrdizzy14-Deklen&show_icons=true&bg_color=070B4C&title_color=C35591&text_color=BEA589&icon_color=DFCAB0&border_color=3D424A&border_radius=9)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdizzy14-Deklen&show_icons=true&bg_color=070B4C&title_color=C35591&text_color=BEA589&icon_color=DFCAB0&border_color=3D424A&border_radius=9)](https://github.com/anuraghazra/github-readme-stats)
