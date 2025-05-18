@@ -5,3 +5,5 @@ I'm an aspiring game dev hoping to start my own indie company sometime in the ne
 
 ## Projects
 I have many projects i'm currently working on! I have a few games on my [itch profile](https://mrdizzy14.itch.io/) if you would like to play them. I also have a website dedicated to teaching game design to aspiring creators. This website is one of my bigger projects so it will eventually have many tutorials that are all free to use! You can find this website at [make-games.deklenn.dev](https://make-games.deklenn.dev/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrdizzy14-Deklen&show_icons=true&theme=calm_pink)
